@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS                                            <br>
 ID: CTO8DS3773                                                            <br>
 Domain: Embedded Systems                                                   <br>
 Duration: July to April 2024                                              <br>
-Mentor: Neela Santosh Kuma                                                  <br>
+Mentor: Neela Santosh Kumar                                                  <br>
 
 
 Project Overview: Arduino DHT22 Temperature and Humidity Sensor
