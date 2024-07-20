@@ -12,9 +12,9 @@ Project Description:
 This project involves interfacing a DHT22 (AM2302) sensor with an Arduino Uno to measure temperature and humidity. The sensor readings are displayed on a serial monitor, providing real-time environmental data.
 
 Components Used:
-Arduino Uno: Acts as the microcontroller to read data from the sensor and output it to the serial monitor.
-DHT22 Sensor: A digital sensor capable of measuring temperature and humidity with high accuracy.
-Connecting Wires: Used to establish electrical connections between the Arduino and the DHT22 sensor.
+*Arduino Uno: Acts as the microcontroller to read data from the sensor and output it to the serial monitor.
+*DHT22 Sensor: A digital sensor capable of measuring temperature and humidity with high accuracy.
+*Connecting Wires: Used to establish electrical connections between the Arduino and the DHT22 sensor.
 
 Functionality:
 1.Initialization:
