@@ -6,7 +6,7 @@ Duration: July to April 2024                                              <br>
 Mentor: Neela Santosh Kumar                                                  <br>
 
 
-Project Overview: Arduino DHT22 Temperature and Humidity Sensor
+Project Overview: Arduino interfacing with DHT22 Temperature and Humidity Sensor
 
 Project Description:
 This project involves interfacing a DHT22 (AM2302) sensor with an Arduino Uno to measure temperature and humidity. The sensor readings are displayed on a serial monitor, providing real-time environmental data.
