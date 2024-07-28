@@ -50,6 +50,6 @@ Conclusion:
 This project demonstrates a fundamental application of sensor interfacing and data acquisition using the Arduino platform. It offers a practical introduction to monitoring environmental parameters and serves as a basis for more advanced IoT (Internet of Things) projects involving sensor networks and data analytics.
 
 output (simulation on WOWKI):
-![Screenshot (112)](https://github.com/user-attachments/assets/4911e6aa-0ec6-4e81-9a05-1eb7484e62ca)
 
+![code tech task2](https://github.com/user-attachments/assets/58736948-e8a3-40ff-b2ad-10aa88474a40)
 
